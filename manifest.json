@@ -1,7 +1,7 @@
 {
   "name": "BalanceChanges",
   "description": "Basic balance changes",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "dependencies": [],
   "website_url": "https://github.com/Emeraldweb52/BoplBalanceChanges"
 }
