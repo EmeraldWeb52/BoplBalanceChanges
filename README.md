@@ -1,3 +1,3 @@
-# BattleLib
+# BalanceChanges
 
 Simple balance changes
